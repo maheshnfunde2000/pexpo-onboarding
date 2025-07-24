@@ -1,5 +1,3 @@
-# pexpo_customer_onboarding
-
 # 🏦 Pexpo Onboarding System
 
 <div align="center">
